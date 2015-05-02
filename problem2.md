@@ -3,8 +3,8 @@
 #Adam Mejia
 #filename: problem2.md
 
-###The following SQL code can be exectuded in PSQL to create the schema
-###kata01 and its child table kata01.products
+###The following SQL code can be executed in PSQL to create the schema
+###kata01 and its child tables.
 ####The idea was to address the following issues in the design of the schema
 ###Question: Does fractional money exist? and When (if ever) does rounding take place?
 ####Answer: Absolutely, every little bit counts. The question then becomes where
